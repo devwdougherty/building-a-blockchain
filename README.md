@@ -1,6 +1,8 @@
-# Building a basic Blockchain
+# Building a Basic Blockchain
 
 Based on: https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+
+It was used a consensus algorithm based on the greater chain on the blockchain among the nodes.
 
 ## Technical points
 **encode()**
